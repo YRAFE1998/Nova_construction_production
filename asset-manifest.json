@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "https://nova-egypt.com/static/css/main.46d23b4c.chunk.css",
-    "main.js": "https://nova-egypt.com/static/js/main.14e3179d.chunk.js",
-    "main.js.map": "https://nova-egypt.com/static/js/main.14e3179d.chunk.js.map",
+    "main.js": "https://nova-egypt.com/static/js/main.2c3014ff.chunk.js",
+    "main.js.map": "https://nova-egypt.com/static/js/main.2c3014ff.chunk.js.map",
     "runtime-main.js": "https://nova-egypt.com/static/js/runtime-main.2d135463.js",
     "runtime-main.js.map": "https://nova-egypt.com/static/js/runtime-main.2d135463.js.map",
     "static/css/2.7630166e.chunk.css": "https://nova-egypt.com/static/css/2.7630166e.chunk.css",
@@ -22,6 +22,6 @@
     "static/css/2.7630166e.chunk.css",
     "static/js/2.ac5636fb.chunk.js",
     "static/css/main.46d23b4c.chunk.css",
-    "static/js/main.14e3179d.chunk.js"
+    "static/js/main.2c3014ff.chunk.js"
   ]
 }
