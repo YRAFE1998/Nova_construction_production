@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "https://nova-egypt.com/static/css/main.bae2ee64.chunk.css",
-    "main.js": "https://nova-egypt.com/static/js/main.e18a470a.chunk.js",
-    "main.js.map": "https://nova-egypt.com/static/js/main.e18a470a.chunk.js.map",
-    "runtime-main.js": "https://nova-egypt.com/static/js/runtime-main.d573f9c4.js",
-    "runtime-main.js.map": "https://nova-egypt.com/static/js/runtime-main.d573f9c4.js.map",
+    "main.css": "https://nova-egypt.com/static/css/main.46d23b4c.chunk.css",
+    "main.js": "https://nova-egypt.com/static/js/main.14e3179d.chunk.js",
+    "main.js.map": "https://nova-egypt.com/static/js/main.14e3179d.chunk.js.map",
+    "runtime-main.js": "https://nova-egypt.com/static/js/runtime-main.2d135463.js",
+    "runtime-main.js.map": "https://nova-egypt.com/static/js/runtime-main.2d135463.js.map",
     "static/css/2.7630166e.chunk.css": "https://nova-egypt.com/static/css/2.7630166e.chunk.css",
-    "static/js/2.c2e8b476.chunk.js": "https://nova-egypt.com/static/js/2.c2e8b476.chunk.js",
-    "static/js/2.c2e8b476.chunk.js.map": "https://nova-egypt.com/static/js/2.c2e8b476.chunk.js.map",
-    "static/js/3.9d41762e.chunk.js": "https://nova-egypt.com/static/js/3.9d41762e.chunk.js",
-    "static/js/3.9d41762e.chunk.js.map": "https://nova-egypt.com/static/js/3.9d41762e.chunk.js.map",
+    "static/js/2.ac5636fb.chunk.js": "https://nova-egypt.com/static/js/2.ac5636fb.chunk.js",
+    "static/js/2.ac5636fb.chunk.js.map": "https://nova-egypt.com/static/js/2.ac5636fb.chunk.js.map",
+    "static/js/3.3b505595.chunk.js": "https://nova-egypt.com/static/js/3.3b505595.chunk.js",
+    "static/js/3.3b505595.chunk.js.map": "https://nova-egypt.com/static/js/3.3b505595.chunk.js.map",
     "index.html": "https://nova-egypt.com/index.html",
     "static/css/2.7630166e.chunk.css.map": "https://nova-egypt.com/static/css/2.7630166e.chunk.css.map",
-    "static/css/main.bae2ee64.chunk.css.map": "https://nova-egypt.com/static/css/main.bae2ee64.chunk.css.map",
-    "static/js/2.c2e8b476.chunk.js.LICENSE.txt": "https://nova-egypt.com/static/js/2.c2e8b476.chunk.js.LICENSE.txt",
+    "static/css/main.46d23b4c.chunk.css.map": "https://nova-egypt.com/static/css/main.46d23b4c.chunk.css.map",
+    "static/js/2.ac5636fb.chunk.js.LICENSE.txt": "https://nova-egypt.com/static/js/2.ac5636fb.chunk.js.LICENSE.txt",
     "static/media/styles.css": "https://nova-egypt.com/static/media/OpenSans-SemiBoldItalic.63afadba.ttf",
     "static/media/all.min.css": "https://nova-egypt.com/static/media/fa-solid-900.efbd5d20.eot"
   },
   "entrypoints": [
-    "static/js/runtime-main.d573f9c4.js",
+    "static/js/runtime-main.2d135463.js",
     "static/css/2.7630166e.chunk.css",
-    "static/js/2.c2e8b476.chunk.js",
-    "static/css/main.bae2ee64.chunk.css",
-    "static/js/main.e18a470a.chunk.js"
+    "static/js/2.ac5636fb.chunk.js",
+    "static/css/main.46d23b4c.chunk.css",
+    "static/js/main.14e3179d.chunk.js"
   ]
 }
