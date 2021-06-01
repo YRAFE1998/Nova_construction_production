@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "https://nova-egypt.com/static/css/main.8d34ec95.chunk.css",
-    "main.js": "https://nova-egypt.com/static/js/main.1705ef4e.chunk.js",
-    "main.js.map": "https://nova-egypt.com/static/js/main.1705ef4e.chunk.js.map",
+    "main.css": "https://nova-egypt.com/static/css/main.0a9a33b3.chunk.css",
+    "main.js": "https://nova-egypt.com/static/js/main.f955e5c6.chunk.js",
+    "main.js.map": "https://nova-egypt.com/static/js/main.f955e5c6.chunk.js.map",
     "runtime-main.js": "https://nova-egypt.com/static/js/runtime-main.2d135463.js",
     "runtime-main.js.map": "https://nova-egypt.com/static/js/runtime-main.2d135463.js.map",
     "static/css/2.7630166e.chunk.css": "https://nova-egypt.com/static/css/2.7630166e.chunk.css",
-    "static/js/2.5414eb07.chunk.js": "https://nova-egypt.com/static/js/2.5414eb07.chunk.js",
-    "static/js/2.5414eb07.chunk.js.map": "https://nova-egypt.com/static/js/2.5414eb07.chunk.js.map",
+    "static/js/2.2e5764fe.chunk.js": "https://nova-egypt.com/static/js/2.2e5764fe.chunk.js",
+    "static/js/2.2e5764fe.chunk.js.map": "https://nova-egypt.com/static/js/2.2e5764fe.chunk.js.map",
     "static/js/3.3b505595.chunk.js": "https://nova-egypt.com/static/js/3.3b505595.chunk.js",
     "static/js/3.3b505595.chunk.js.map": "https://nova-egypt.com/static/js/3.3b505595.chunk.js.map",
     "index.html": "https://nova-egypt.com/index.html",
     "static/css/2.7630166e.chunk.css.map": "https://nova-egypt.com/static/css/2.7630166e.chunk.css.map",
-    "static/css/main.8d34ec95.chunk.css.map": "https://nova-egypt.com/static/css/main.8d34ec95.chunk.css.map",
-    "static/js/2.5414eb07.chunk.js.LICENSE.txt": "https://nova-egypt.com/static/js/2.5414eb07.chunk.js.LICENSE.txt",
+    "static/css/main.0a9a33b3.chunk.css.map": "https://nova-egypt.com/static/css/main.0a9a33b3.chunk.css.map",
+    "static/js/2.2e5764fe.chunk.js.LICENSE.txt": "https://nova-egypt.com/static/js/2.2e5764fe.chunk.js.LICENSE.txt",
     "static/media/styles.css": "https://nova-egypt.com/static/media/OpenSans-SemiBoldItalic.63afadba.ttf",
     "static/media/all.min.css": "https://nova-egypt.com/static/media/fa-solid-900.efbd5d20.eot"
   },
   "entrypoints": [
     "static/js/runtime-main.2d135463.js",
     "static/css/2.7630166e.chunk.css",
-    "static/js/2.5414eb07.chunk.js",
-    "static/css/main.8d34ec95.chunk.css",
-    "static/js/main.1705ef4e.chunk.js"
+    "static/js/2.2e5764fe.chunk.js",
+    "static/css/main.0a9a33b3.chunk.css",
+    "static/js/main.f955e5c6.chunk.js"
   ]
 }
