@@ -1,0 +1,2 @@
+(this["webpackJsonpnova-construction"]=this["webpackJsonpnova-construction"]||[]).push([[10],{204:function(t,n,c){"use strict";c.r(n),c.d(n,"ProductsPage",(function(){return a}));var o=c(0),s=c(116),e=c(149),i=c(1),a=function(t){return Object(o.useEffect)((function(){window.scrollTo(0,0)}),[]),Object(i.jsxs)(i.Fragment,{children:[Object(i.jsx)(s.a,{activeitem:3,notransition:!0}),Object(i.jsx)(e.a,{showall:!0,paddingtop:!0})]})};n.default=a}}]);
+//# sourceMappingURL=10.7b0bde36.chunk.js.map
